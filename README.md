@@ -3,6 +3,9 @@
 - Semiconductor System Engineering, Sungkyunkwan University (BS, 2018-2024)
 
 ### What I've Been Into These Days
+- Java
+- Spring
+- AI Agent
 - Linux Kernel
 - RocksDB (facebook)
 - Kafka (Apache)
